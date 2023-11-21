@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\213043_connectSQL\213043_connectSQL\bin\Debug\213043_connectSQL.exe.config
+C:\Users\HP\source\repos\213043_connectSQL\213043_connectSQL\bin\Debug\213043_connectSQL.exe
+C:\Users\HP\source\repos\213043_connectSQL\213043_connectSQL\bin\Debug\213043_connectSQL.pdb
+C:\Users\HP\source\repos\213043_connectSQL\213043_connectSQL\obj\Debug\213043_connectSQL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\213043_connectSQL\213043_connectSQL\obj\Debug\_213043_connectSQL.Form1.resources
+C:\Users\HP\source\repos\213043_connectSQL\213043_connectSQL\obj\Debug\_213043_connectSQL.Properties.Resources.resources
+C:\Users\HP\source\repos\213043_connectSQL\213043_connectSQL\obj\Debug\213043_connectSQL.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\213043_connectSQL\213043_connectSQL\obj\Debug\213043_connectSQL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\213043_connectSQL\213043_connectSQL\obj\Debug\213043_connectSQL.exe
+C:\Users\HP\source\repos\213043_connectSQL\213043_connectSQL\obj\Debug\213043_connectSQL.pdb
